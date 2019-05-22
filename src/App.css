@@ -1,3 +1,23 @@
+@import '~antd/dist/antd.css';
+a:hover{
+  text-decoration: none !important;
+}
+.ant-carousel .slick-slide {
+  text-align: center;
+  height: 350px;
+  line-height: 160px;
+  background: #364d79;
+  overflow: hidden;
+}
+
+.ant-carousel .slick-slide h3 {
+  color: #fff;
+}
+
+.content-box{
+  box-shadow: 0 0 5px 2px #cbcbcb;
+}
+
 .App {
   text-align: center;
 }
