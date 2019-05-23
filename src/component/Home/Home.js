@@ -12,7 +12,7 @@ export default class Home extends Component {
 				<Layout style={{ minHeight: '100vh', paddingBottom: '64px' }}>
 					<Content style={{ padding: '0 50px', marginTop: 64, textAlign: 'center' }}>
 						<div style={{ background: '#fff', padding: 24, minHeight: 200 }} className="content-box">
-							<h1 style={{ color: 'red' }}>Welcome to Red County Role Play TH ! </h1>
+							<h1 style={{ color: 'red' }}>Welcome to Red County Role Play TH !</h1>
 							<hr />
 							<Badge color="#2db7f5" />
 							ยินดีต้อนรับเข้าสู่เซิร์ฟเวอร์ <span style={{ color: 'red', fontSize: '20px' }}>Red County Role Play TH </span>น่ะครับ <br />
@@ -31,7 +31,7 @@ export default class Home extends Component {
 									Click !
 								</span>
 							</a>
-							<img src={news1} className="img-fluid mt-3" />
+							<img src={news1} className="img-fluid mt-3 border-picture" />
 						</div>
 					</Content>
 				</Layout>

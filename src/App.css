@@ -18,6 +18,10 @@ a:hover{
   box-shadow: 0 0 5px 2px #cbcbcb;
 }
 
+.border-picture{
+  box-shadow: 0 0 5px 2px #929191;
+}
+
 .App {
   text-align: center;
 }
