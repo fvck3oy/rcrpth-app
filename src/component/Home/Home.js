@@ -19,7 +19,7 @@ export default class Home extends Component {
 							<Badge color="#32cd32" />
 							ติดตามข่าวสารได้ที่เเฟนเพจ{' '}
 							<a href="https://www.facebook.com/rcrp.th">
-								<span style={{ color: 'red', fontSize: '20px' }} className="animated infinite flash delay-2s slow">
+								<span style={{ color: 'red', fontSize: '20px' }} className="animated infinite flash delay-1s slow">
 									Click !
 								</span>
 							</a>

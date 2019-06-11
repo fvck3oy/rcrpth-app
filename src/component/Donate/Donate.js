@@ -20,10 +20,55 @@ export default class Donate extends Component {
 									<br />
 								</Col>
 							</Row>
-
+							<div className="d-md-flex coming justify-content-center">
+								<div className="m-3 p-3">Silver</div>
+								<div className="m-3 p-3">Gold</div>
+								<div className="m-3 p-3">Platinum</div>
+							</div>
 							<Row>
 								<Col className="mt-5 mb-5">
-									<div>Coming Soon . . .</div>
+									<img src="https://redcountyrp.com/img/icons/$.svg" alt="icon" width="50px" /> เหรียญ
+									<br />
+									<img src="https://redcountyrp.com/img/icons/credit_1.svg" alt="icon" width="50px" /> บัตรเครดิต
+									<br />
+									<img src="https://redcountyrp.com/img/icons/userdonatortalk.svg" alt="icon" width="50px" />
+									<br />
+									<img src="https://redcountyrp.com/img/icons/chair_1.svg" alt="icon" width="50px" />
+									<br />
+									<img src="https://redcountyrp.com/img/icons/jobhalftimer.svg" alt="icon" width="50px" />
+									<br />
+									<img src="https://redcountyrp.com/img/icons/userplus.svg" alt="icon" width="50px" />
+									<br />
+									<img src="https://redcountyrp.com/img/icons/Phonerefresh.svg" alt="icon" width="50px" />
+									<br />
+									<img src="https://redcountyrp.com/img/icons/creditplus.svg" alt="icon" width="50px" />
+									<br />
+									<img src="https://redcountyrp.com/img/icons/Arrow%20down.svg" alt="icon" width="50px" />
+									<br />
+									<img src="https://redcountyrp.com/img/icons/chairplus.svg" alt="icon" width="50px" />
+									<br />
+									<img src="https://redcountyrp.com/img/icons/group2plus.svg" alt="icon" width="50px" />
+									<br />
+									<img src="https://redcountyrp.com/img/icons/advertdownhalf.svg" alt="icon" width="50px" />
+									<br />
+									<img src="https://redcountyrp.com/img/icons/Housewipe.svg" alt="icon" width="50px" />
+									<br />
+									<img src="https://redcountyrp.com/img/icons/creditplusplusplus.svg" alt="icon" width="50px" />
+									<br />
+									<img src="https://redcountyrp.com/img/icons/chair++.svg" alt="icon" width="50px" />
+									<br />
+									<img src="https://redcountyrp.com/img/icons/group3plus.svg" alt="icon" width="50px" />
+									<br />
+									<img src="https://redcountyrp.com/img/icons/Teamspeakdonate.svg" alt="icon" width="50px" />
+									<br />
+									<img src="https://redcountyrp.com/img/icons/advertfree_1.svg" alt="icon" width="50px" />
+									<br />
+									<img src="https://redcountyrp.com/img/icons/Fuelcanfree.svg" alt="icon" width="50px" />
+									<br />
+									<img src="https://redcountyrp.com/img/icons/Bulletplus.svg" alt="icon" width="50px" />
+									<br />
+									<img src="https://cdn.truemoney.com/wp-content/uploads/2019/04/truemoney-logo-20190424.png" alt="icon" width="200px" />
+									<br />
 								</Col>
 							</Row>
 						</div>
